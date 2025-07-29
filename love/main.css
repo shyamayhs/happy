@@ -24,7 +24,7 @@
     -webkit-transform-style: preserve-3d;
             transform-style: preserve-3d;
   }
-  p{
+  #wish{
       colour : red ;
   }
   #drag-container, #spin-container {
